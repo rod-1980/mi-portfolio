@@ -4,7 +4,7 @@
 ![ventasrendimiento](escritorio/dashboardcompleto.png)
 
 ## Ventas por región
-![ventasrendimiento](escritorio/graficobarras.png)
+![ventasrendimiento](escritorio/gráficobarras.png)
 
 ## Ventas mensuales
-![ventasrendimiento](escritorio/graficocircular.png)
+![ventasrendimiento](escritorio/gráficocircular.png)
