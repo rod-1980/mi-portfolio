@@ -2,7 +2,7 @@
 
 ## Dashboard general
 
-![Dashboard general](imagenes/dashboardcompleto.png)
+![Dashboard general](imagenes/dashboardcomplete.png)
 
 #kpis empleados
 
