@@ -6,11 +6,11 @@
 
 #kpis empleados
 
-![kpis](imagenes/circularempleados.png)
+![kpis](imagenes/graficobarras.png)
 
 #rotacion de empleados
 
-![rotacion](imagenes/graficocircularempleados.png)
+![rotacion](imagenes/graficocircular.png)
 
 
 
