@@ -2,15 +2,15 @@
 
 ## Dashboard general
 
-![Dashboard general](escritorio/dashboardcompleto.png)
+![Dashboard general](imagenes/dashboardcompleto.png)
 
 #kpis empleados
 
-![kpis](escritorio/circularempleados.png)
+![kpis](imagenes/circularempleados.png)
 
 #rotacion de empleados
 
-![rotacion](escritorio/graficocircularempleados.png)
+![rotacion](imagenes/graficocircularempleados.png)
 
 
 
